@@ -23,8 +23,8 @@ fit the model and then predict
 
 ## PROGRAM
 ```
- Developed by: v.charan sai
- Reg No: 212221240061
+ Developed by: KATHHIRVEL.A
+ Reg No: 212221230047
 ```
 ```
 import numpy as np
